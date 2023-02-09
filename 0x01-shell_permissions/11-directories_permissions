@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -exec chmod u=777,go=rx {} +
+find . -type d -exec chmod 777 {} +
